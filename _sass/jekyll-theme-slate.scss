@@ -118,6 +118,19 @@ a:hover, a:focus {
   font-weight:bold;
 }
 
+header h1 a {
+  color: #F2F2F2;
+  text-decoration: none;
+}
+
+header h1 a:hover {
+  text-decoration: underline;
+}
+
+header h1 a:focus {
+  text-decoration: underline;
+}
+
 footer a {
   color: #F2F2F2;
   text-decoration: underline;
