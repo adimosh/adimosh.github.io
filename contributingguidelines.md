@@ -1,6 +1,7 @@
 ---
 title: Contribution guidelines for my projects
 ---
+
 # Contribution guidelines
 
 These are contributing guidelines for my projects hosted on GitHub.

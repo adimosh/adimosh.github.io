@@ -1,9 +1,10 @@
-﻿---
+---
 title: About me
 ---
+
 # Who am I?
 
-My name is Adrian Moș (pronounced "mosh" with a long "o").
+My name is Adrian Mos (pronounced "mosh" with a long "o").
 
 I am a Romanian developer specialized on back-end systems development, mostly using
 the [.NET Framework](https://dotnetfoundation.org/).

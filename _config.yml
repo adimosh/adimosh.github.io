@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Adrian's page
 description: The personal GitHub site of developer Adrian Mos.
+show_downloads: false
