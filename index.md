@@ -6,10 +6,9 @@ title: About me
 
 My name is Adrian Mos (pronounced "mosh" with a long "o").
 
-I am a Romanian developer specialized on back-end systems development, mostly using
-the [.NET Framework](https://dotnetfoundation.org/).
-
-I am also a [husband]() (under construction) and a [father]() (under construction).
+I am a Romanian developer specialized on back-end systems development, mostly using the
+[.NET Framework](https://www.microsoft.com/net), now of the
+[.Net Foundation](https://dotnetfoundation.org/) and C++.
 
 # What do I do?
 
@@ -44,3 +43,13 @@ I can be contacted through my
 [LinkedIn page](https://www.linkedin.com/in/adrian-mos-66530856/).
 
 In order to avoid spam, I have only shared my contact details there.
+
+# What am I like?
+
+If you'd like to know more about me as a person, here are some details.
+
+- [My short bio](bio)
+- [My political and social views](under constructionsks)
+- [My religious views](religiousviews)
+
+I am also a [husband]() (under construction) and a [father]() (under construction).
