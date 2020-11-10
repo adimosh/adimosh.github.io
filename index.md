@@ -18,9 +18,9 @@ I design and implement mostly back-end systems, and I have a passion for working
 
 Here are some details about my commercial work:
 
-- [Tools that I work with](tools) (:hammer: under construction)
-- Projects that I have worked on (:hammer: under construction)
-- [Professional resume](https://www.linkedin.com/in/adrian-mos-66530856/) (LinkedIn profile)
+- :page_facing_up: [Professional resume](https://www.linkedin.com/in/adrian-mos-66530856/) (LinkedIn profile)
+- :open_file_folder: [Projects that I have worked on]() (:construction: under construction :construction:)
+- :wrench: [Tools that I work with](tools) (:construction: under construction :construction:)
 
 ## Open-source work
 
@@ -28,7 +28,7 @@ I have some [open-source projects](opensourceprojects) started, and I welcome an
 
 ## Travel
 
-I like to [travel a lot](travel) (:hammer: under construction), and experience places, people, cultures, habits, customs, etc. that are different from what I am used to.
+I like to [travel a lot](travel) (:construction: under construction :construction:), and experience places, people, cultures, habits, customs, etc. that are different from what I am used to.
 
 # How can I be contacted?
 
@@ -40,8 +40,8 @@ In order to avoid spam, I have only shared my contact details there.
 
 If you'd like to know more about me as a person, here are some details.
 
-- [My short bio](bio)
-- [My political and social views]() (:hammer: under construction)
-- [My religious views](religiousviews) (:hammer: under construction)
+- :memo: [My short bio](bio)
+- :school: [My political and social views]() (:construction: under construction :construction:)
+- :church: [My religious views](religiousviews) (:construction: under construction :construction:)
 
-I am also a [husband](husband) (:hammer: under construction) and a [father](father) (:hammer: under construction).
+I am also a [husband](husband) (:construction: under construction :construction:) and a [father](father) (:construction: under construction :construction:).
