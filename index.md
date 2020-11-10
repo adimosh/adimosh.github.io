@@ -6,41 +6,33 @@ title: About me
 
 My name is Adrian Mos (pronounced "mosh" with a long "o").
 
-I am a Romanian developer specialized on back-end systems development, mostly using the
-[.NET Framework](https://www.microsoft.com/net), now of the
-[.Net Foundation](https://dotnetfoundation.org/) and C++.
+I am a Romanian developer specialized on back-end systems development, mostly using the [.NET Framework](https://www.microsoft.com/net), now of the [.Net Foundation](https://dotnetfoundation.org/) and C++.
 
 # What do I do?
 
 ## Commercial work
 
-I currently work as an independent legal commercial entity in the field of computer
-programming.
+I currently work as an independent legal commercial entity in the field of computer programming.
 
-I design and implement mostly back-end systems, and I have a passion for working with
-large sets of data, mathematical problems or optimizations.
+I design and implement mostly back-end systems, and I have a passion for working with large sets of data, mathematical problems or optimizations.
 
 Here are some details about my commercial work:
 
-- Tools that I work with (under construction)
-- Projects that I have worked on (under construction)
+- [Tools that I work with](tools) (:hammer: under construction)
+- Projects that I have worked on (:hammer: under construction)
 - [Professional resume](https://www.linkedin.com/in/adrian-mos-66530856/) (LinkedIn profile)
 
 ## Open-source work
 
-I have some [open-source projects](opensourceprojects) started, and I welcome any kind
-of contribution, be it in the form of code, or critique, or ideas, or bug reports, or
-anything else that will make them advance further.
+I have some [open-source projects](opensourceprojects) started, and I welcome any kind of contribution, be it in the form of code, or critique, or ideas, or bug reports, or anything else that will make them advance further.
 
 ## Travel
 
-I like to [travel a lot]() (under construction), and experience places, people, cultures, habits, customs, etc.
-that are different from what I am used to.
+I like to [travel a lot](travel) (:hammer: under construction), and experience places, people, cultures, habits, customs, etc. that are different from what I am used to.
 
 # How can I be contacted?
 
-I can be contacted through my
-[LinkedIn page](https://www.linkedin.com/in/adrian-mos-66530856/).
+I can be contacted through my [LinkedIn page](https://www.linkedin.com/in/adrian-mos-66530856/).
 
 In order to avoid spam, I have only shared my contact details there.
 
@@ -49,7 +41,7 @@ In order to avoid spam, I have only shared my contact details there.
 If you'd like to know more about me as a person, here are some details.
 
 - [My short bio](bio)
-- [My political and social views](under constructionsks)
-- [My religious views](religiousviews)
+- [My political and social views]() (:hammer: under construction)
+- [My religious views](religiousviews) (:hammer: under construction)
 
-I am also a [husband]() (under construction) and a [father]() (under construction).
+I am also a [husband](husband) (:hammer: under construction) and a [father](father) (:hammer: under construction).
