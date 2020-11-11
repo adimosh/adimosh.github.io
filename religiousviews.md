@@ -34,4 +34,4 @@ Therefore, I consider myself to be agnostic towards the question of whether a su
 
 ## Why not any of the world's religions?
 
-(:hammer: under construction)
+(:construction: under construction :construction:)
